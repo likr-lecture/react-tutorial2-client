@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Review } from "./Review.js";
+import { Review } from "./Review.jsx";
 
 export function Restaurant({ restaurant }) {
   return (
